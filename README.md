@@ -35,12 +35,24 @@ En el diagrama se integran:
 - Comunicación serial para enlazar con Node-RED
 La simulación permite probar condiciones extremas, verificar la lógica de control y depurar errores antes de implementar físicamente el sistema.
 
-##Código 
+## Código 
 
 # Node-Red
 
 Node-RED se utiliza como:
 Panel de monitoreo de temperatura, humedad, luz y nivel de agua.
+
+# Funcionamiento general Wokwi, Node-RED
+
+1.	El ESP32 realiza la lectura de todos los sensores.
+2.	La lógica compara los valores con los rangos establecidos:
+- Si la suculenta necesita agua y hay suficiente nivel → activa la bomba.
+- Si la temperatura está alta → activa ventilador.
+- Si la luz es insuficiente → mueve servo para abrir ventana.
+3.	Node-RED recibe todos los datos y los muestra en dashboards.
+4.	El usuario puede modificar parámetros o forzar acciones desde Node-RED.
+5.	El sistema opera de forma continua y autónoma.
+
 
   ![]( ADJUNTAR IMAGEN)
   
