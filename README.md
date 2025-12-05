@@ -8,7 +8,7 @@ El presente proyecto tiene como finalidad el diseño de un sistema automatizado 
 Se buscan soluciones capaces de mantener condiciones estables y eficientes para el crecimiento vegetal. En particular, las suculentas demandan parámetros específicos de temperatura, humedad y luminosidad, por lo que la automatización resulta un recurso fundamental para garantizar su bienestar y reducir la intervención humana
 Se adjuntan los parametros que se tomaran en cuenta para la realizacion del proyecto: 
 
-  ![]( ADJUNTAR IMAGEN)
+  ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/PARAMETROS.jpeg?raw=true)
   
 - OBJETIVO
   
