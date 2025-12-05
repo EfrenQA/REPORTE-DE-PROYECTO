@@ -17,10 +17,12 @@ Desarrollar y simular un sistema automatizado que controle el riego, la temperat
 - MATERIAL 
   - Sensor DHT22 (Temperatura y Humedad)
   - Sensor Ultrasónico HC-SR04
-  - Sensor LDR (Control de iluminación natural)
+  - Fotoresistencia (Control de iluminación natural)
+  - Resistencias
   - Actuadores
-  - Ventilador: regula temperatura.
-  - Bomba de agua: activa el riego.
+  - Led amarillo ( simula calefacción regula temperatura).
+  - Led blanco ( simula ventilación regula temperatura).
+  - Led azul ( Bomba de agua: activa el riego).
   - Servomotor: abre/cierra ventanas.
   - Display: indica estados del sistema.
 
@@ -37,13 +39,19 @@ La simulación permite probar condiciones extremas, verificar la lógica de cont
 
 ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/CONEXIONES.jpeg?raw=true)
 
+#Se adjuntan las bibliotecas necesarias para el funcionamiento del programa 
+
+  ![]( ADJUNTAR IMAGEN)
+    ![]( ADJUNTAR IMAGEN)
+  
 ## Código 
 
 # Node-Red
 
 Node-RED se utiliza como:
 Panel de monitoreo de temperatura, humedad, luz y nivel de agua.
-
+  ![]( ADJUNTAR IMAGEN)
+  
 # Funcionamiento general Wokwi, Node-RED
 
 1.	El ESP32 realiza la lectura de todos los sensores.
