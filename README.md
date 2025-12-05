@@ -35,6 +35,8 @@ En el diagrama se integran:
 - Comunicación serial para enlazar con Node-RED
 La simulación permite probar condiciones extremas, verificar la lógica de control y depurar errores antes de implementar físicamente el sistema.
 
+![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/CONEXIONES.jpeg?raw=true)
+
 ## Código 
 
 # Node-Red
