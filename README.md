@@ -14,6 +14,8 @@ Se adjuntan los parametros que se tomaran en cuenta para la realizacion del proy
   
 Desarrollar y simular un sistema automatizado que controle el riego, la temperatura, la humedad ambiental y la iluminación necesaria para plantas suculentas, utilizando un ESP32, sensores DHT22, sensor ulrasonico, fotoresistencias (LDR) y actuadores como ventiladores, bombas de agua y servomotores, integrados a un panel de monitoreo en Node-RED.
 
+![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/inverna.jpeg?raw=true)
+
 - MATERIAL 
   - Sensor DHT22 (Temperatura y Humedad)
   - Sensor Ultrasónico HC-SR04
