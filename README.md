@@ -43,8 +43,7 @@ La simulación permite probar condiciones extremas, verificar la lógica de cont
 
 #Se adjuntan las bibliotecas necesarias para el funcionamiento del programa 
 
-  ![]( ADJUNTAR IMAGEN)
-    ![]( ADJUNTAR IMAGEN)
+  ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/LIBRERIAS.jpeg?raw=true)
   
 ## Código 
 
