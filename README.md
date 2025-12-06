@@ -315,7 +315,7 @@ Panel de monitoreo de temperatura, humedad, luz y nivel de agua (distancia).
 5.	El sistema opera de forma continua y autónoma.
 
 
-  ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/Fucionamiento.png?raw=true)
+  ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/Fucionamiento.jpeg?raw=true)
   
   
 # Conclusión
