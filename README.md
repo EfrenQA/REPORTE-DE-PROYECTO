@@ -325,9 +325,8 @@ Imagen de la planta suculenta
    - Temperatura ambiente
    - Humedad del suelo
    - Nivel del tanque de agua
-   - Intensidad de luz (LDR o fotodiodo)
-   - Humedad ambiental (si se usa DHT22 o BME280)
-
+   - Intensidad de luz 
+   - Humedad ambiental 
 
   ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/Fucionamiento.jpeg?raw=true)
   
