@@ -302,6 +302,8 @@ Node-RED se utiliza como:
 Panel de monitoreo de temperatura, humedad, luz y nivel de agua (distancia).
 
   ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/node-red.jpeg?raw=true)
+
+  ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/node-red-2.jpeg?raw=true)
   
 # Funcionamiento general Wokwi, Node-RED
 
