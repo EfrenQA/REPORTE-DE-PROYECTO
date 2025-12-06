@@ -54,7 +54,7 @@ ________________________________________________________________________________
   - Servomotor: abre/cierra ventanas.
   - Display: indica estados del sistema.
  
-  ![]( ADJUNTAR IMAGEN DEL MATERIAL )
+  ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/materiales.jpeg?raw=true)
 _________________________________________________________________________________________________________________________
 -DESARROLLO 
 
