@@ -300,7 +300,8 @@ else if (valor <= 2499 && ventanaAbierta == true) {
 
 Node-RED se utiliza como:
 Panel de monitoreo de temperatura, humedad, luz y nivel de agua (distancia).
-  ![]( ADJUNTAR IMAGEN)
+
+  ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/node-red.jpeg?raw=true)
   
 # Funcionamiento general Wokwi, Node-RED
 
@@ -314,13 +315,8 @@ Panel de monitoreo de temperatura, humedad, luz y nivel de agua (distancia).
 5.	El sistema opera de forma continua y autónoma.
 
 
-  ![]( ADJUNTAR IMAGEN)
+  ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/Fucionamiento.png?raw=true)
   
-  ![]( ADJUNTAR IMAGEN)
-  
-  ![]( ADJUNTAR IMAGEN)
-  
-  ![]( ADJUNTAR IMAGEN)
   
 # Conclusión
 El proyecto demuestra la aplicación de técnicas de automatización industrial en un entorno agrícola controlado, integrando sensores, actuadores y herramientas IoT.
