@@ -318,6 +318,16 @@ Node-RED se utiliza como:
 4.	El usuario puede modificar parámetros o forzar acciones desde Node-RED.
 5.	El sistema opera de forma continua y autónoma.
 
+# El Dashboard de Node-RED (Sistema Automático de Suculenta)
+1. Visualización General
+Imagen de la planta suculenta 
+2. Lecturas en tiempo real desde el ESP32
+   - Temperatura ambiente
+   - Humedad del suelo
+   - Nivel del tanque de agua
+   - Intensidad de luz (LDR o fotodiodo)
+   - Humedad ambiental (si se usa DHT22 o BME280)
+
 
   ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/Fucionamiento.jpeg?raw=true)
   
