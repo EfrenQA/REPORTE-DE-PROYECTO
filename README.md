@@ -299,11 +299,11 @@ else if (valor <= 2499 && ventanaAbierta == true) {
 # Node-Red
 
 Node-RED se utiliza como:
--Panel de monitoreo de temperatura, humedad, luz y nivel de agua (distancia).
+- Panel de monitoreo de temperatura, humedad, luz y nivel de agua (distancia).
 
   ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/node-red.jpeg?raw=true)
 
--Vizualizacion de planta suculeta a traves la configuracion de node-red en el dashboard para podeer obtener la imagen
+- Vizualizacion de planta suculeta a traves la configuracion de node-red en el dashboard para podeer obtener la imagen
 
   ![](https://github.com/EfrenQA/REPORTE-DE-PROYECTO/blob/main/node-red-2.jpeg?raw=true)
   
